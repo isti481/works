@@ -1,0 +1,3 @@
+István;31;Fiu;9
+Lilla;32;Lany;10
+Lajos;25;Fiu;5

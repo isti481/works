@@ -1,0 +1,3 @@
+A programot a hivatalos microsoftos tutorial alapján készítettem el, ASP.NET Core 6 MVC : https://docs.microsoft.com/hu-hu/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-6.0&tabs=visual-studio 
+
+a program támogatja a CRUD műveleteket, a movie app gombra kattintva ez ki is próbálható.

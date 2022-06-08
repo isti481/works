@@ -1,0 +1,1 @@
+az alkalmazás a KőPapírOllo WPF\KoPapirOllo\KoPapirOllo\bin\Debug\netcoreapp3.1\KoPapirOllo.exe vel futtatható

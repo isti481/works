@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Image1.png" />
+    <None Remove="k.png" />
+    <None Remove="kep.png" />
+    <None Remove="o.png" />
+    <None Remove="p.png" />
+    <None Remove="Táblás-játék-kő-papír-olló-póker-kártya-kakegurui_46703.jpeg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Image1.png" />
+    <Resource Include="k.png" />
+    <Resource Include="kep.png" />
+    <Resource Include="o.png" />
+    <Resource Include="p.png" />
+    <Resource Include="Táblás-játék-kő-papír-olló-póker-kártya-kakegurui_46703.jpeg" />
+  </ItemGroup>
+
+</Project>

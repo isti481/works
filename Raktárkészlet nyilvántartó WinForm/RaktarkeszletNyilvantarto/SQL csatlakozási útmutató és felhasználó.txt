@@ -1,0 +1,4 @@
+Az adatbázis kapcsolat stringet szükséges módosítani a RaktarkeszletNyilvantarto\adatbazis\adatbazisraktar.mdf fájlra, a Foablak.cs kódban a 20 as sornál.
+
+felhasználónév:Istvan
+jelszó:Egy23456

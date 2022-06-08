@@ -1,0 +1,24 @@
+C:\Users\Csóri\source\repos\szakdoga\RaktarkeszletNyilvantarto\RaktarkeszletNyilvantarto\bin\Debug\RaktarkeszletNyilvantarto.exe.config
+C:\Users\Csóri\source\repos\szakdoga\RaktarkeszletNyilvantarto\RaktarkeszletNyilvantarto\bin\Debug\RaktarkeszletNyilvantarto.exe
+C:\Users\Csóri\source\repos\szakdoga\RaktarkeszletNyilvantarto\RaktarkeszletNyilvantarto\bin\Debug\RaktarkeszletNyilvantarto.pdb
+C:\Users\Csóri\source\repos\szakdoga\RaktarkeszletNyilvantarto\RaktarkeszletNyilvantarto\obj\Debug\RaktarkeszletNyilvantarto.csproj.AssemblyReference.cache
+C:\Users\Csóri\source\repos\szakdoga\RaktarkeszletNyilvantarto\RaktarkeszletNyilvantarto\obj\Debug\RaktarkeszletNyilvantarto.Bejelentkezes.resources
+C:\Users\Csóri\source\repos\szakdoga\RaktarkeszletNyilvantarto\RaktarkeszletNyilvantarto\obj\Debug\RaktarkeszletNyilvantarto.Foablak.resources
+C:\Users\Csóri\source\repos\szakdoga\RaktarkeszletNyilvantarto\RaktarkeszletNyilvantarto\obj\Debug\RaktarkeszletNyilvantarto.Properties.Resources.resources
+C:\Users\Csóri\source\repos\szakdoga\RaktarkeszletNyilvantarto\RaktarkeszletNyilvantarto\obj\Debug\RaktarkeszletNyilvantarto.csproj.GenerateResource.cache
+C:\Users\Csóri\source\repos\szakdoga\RaktarkeszletNyilvantarto\RaktarkeszletNyilvantarto\obj\Debug\RaktarkeszletNyilvantarto.csproj.CoreCompileInputs.cache
+C:\Users\Csóri\source\repos\szakdoga\RaktarkeszletNyilvantarto\RaktarkeszletNyilvantarto\obj\Debug\RaktarkeszletNyilvantarto.exe
+C:\Users\Csóri\source\repos\szakdoga\RaktarkeszletNyilvantarto\RaktarkeszletNyilvantarto\obj\Debug\RaktarkeszletNyilvantarto.pdb
+C:\Users\Csóri\source\repos\szakdoga\RaktarkeszletNyilvantarto\RaktarkeszletNyilvantarto\obj\Debug\RaktarkeszletNyilvantarto.csproj.SuggestedBindingRedirects.cache
+D:\Isti\Dokumentumok\Fejlesztés\SZF60 Suli\c#\homokozo\RaktarkeszletNyilvantarto\RaktarkeszletNyilvantarto\bin\Debug\RaktarkeszletNyilvantarto.exe.config
+D:\Isti\Dokumentumok\Fejlesztés\SZF60 Suli\c#\homokozo\RaktarkeszletNyilvantarto\RaktarkeszletNyilvantarto\bin\Debug\RaktarkeszletNyilvantarto.exe
+D:\Isti\Dokumentumok\Fejlesztés\SZF60 Suli\c#\homokozo\RaktarkeszletNyilvantarto\RaktarkeszletNyilvantarto\bin\Debug\RaktarkeszletNyilvantarto.pdb
+D:\Isti\Dokumentumok\Fejlesztés\SZF60 Suli\c#\homokozo\RaktarkeszletNyilvantarto\RaktarkeszletNyilvantarto\obj\Debug\RaktarkeszletNyilvantarto.csproj.AssemblyReference.cache
+D:\Isti\Dokumentumok\Fejlesztés\SZF60 Suli\c#\homokozo\RaktarkeszletNyilvantarto\RaktarkeszletNyilvantarto\obj\Debug\RaktarkeszletNyilvantarto.csproj.SuggestedBindingRedirects.cache
+D:\Isti\Dokumentumok\Fejlesztés\SZF60 Suli\c#\homokozo\RaktarkeszletNyilvantarto\RaktarkeszletNyilvantarto\obj\Debug\RaktarkeszletNyilvantarto.Bejelentkezes.resources
+D:\Isti\Dokumentumok\Fejlesztés\SZF60 Suli\c#\homokozo\RaktarkeszletNyilvantarto\RaktarkeszletNyilvantarto\obj\Debug\RaktarkeszletNyilvantarto.Foablak.resources
+D:\Isti\Dokumentumok\Fejlesztés\SZF60 Suli\c#\homokozo\RaktarkeszletNyilvantarto\RaktarkeszletNyilvantarto\obj\Debug\RaktarkeszletNyilvantarto.Properties.Resources.resources
+D:\Isti\Dokumentumok\Fejlesztés\SZF60 Suli\c#\homokozo\RaktarkeszletNyilvantarto\RaktarkeszletNyilvantarto\obj\Debug\RaktarkeszletNyilvantarto.csproj.GenerateResource.cache
+D:\Isti\Dokumentumok\Fejlesztés\SZF60 Suli\c#\homokozo\RaktarkeszletNyilvantarto\RaktarkeszletNyilvantarto\obj\Debug\RaktarkeszletNyilvantarto.csproj.CoreCompileInputs.cache
+D:\Isti\Dokumentumok\Fejlesztés\SZF60 Suli\c#\homokozo\RaktarkeszletNyilvantarto\RaktarkeszletNyilvantarto\obj\Debug\RaktarkeszletNyilvantarto.exe
+D:\Isti\Dokumentumok\Fejlesztés\SZF60 Suli\c#\homokozo\RaktarkeszletNyilvantarto\RaktarkeszletNyilvantarto\obj\Debug\RaktarkeszletNyilvantarto.pdb

@@ -1,0 +1,1 @@
+az alkalmazás kipróbálható a alkalmazott WinForm\JuhaszIstvan_Mz60\JuhaszIstvan_Mz60\bin\Debug\JuhaszIstvan_Mz60.exe futtatásával
