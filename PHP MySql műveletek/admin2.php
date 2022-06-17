@@ -3,29 +3,23 @@ error_reporting(E_ALL & ~E_WARNING & ~E_NOTICE);
 $servername="localhost";
 $username="root";
 $password="";
-$database="modulzaroji";
+$database="felhasznalok";
 
 
 $conn = new mysqli($servername, $username, $password, $database);
 $conn->set_charset("utf8");
 
-
 if ($conn->connect_error) {
   die("Kapcsolat hiba: " . $conn->connect_error);
 }
-
 ?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <title>Admin</title>
-    
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Admin</title>    
 </head>
 <!--
 <body>

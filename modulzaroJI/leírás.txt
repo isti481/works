@@ -1,9 +1,0 @@
-szükséges létrehozni a modulzaroji adatbázist és beleimportálni a adatok.sql fájlt 
-
--felhasználó regisztrálás: index.php
-
--admin belépés teszt: admin.php
-	felhasználónév:admin
-	jelszó:jelszo
-
--nagyon alap formátumú lekérdezés futtatása, erősen javításra szoruló: admin2.php

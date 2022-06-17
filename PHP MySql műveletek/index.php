@@ -3,7 +3,7 @@ error_reporting(E_ALL & ~E_WARNING & ~E_NOTICE);
 $servername="localhost";
 $username="root";
 $password="";
-$database="modulzaroji";
+$database="felhasznalok";
 
 
 $conn = new mysqli($servername, $username, $password, $database);
@@ -15,8 +15,6 @@ if ($conn->connect_error) {
 }
 
 ?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -24,13 +22,9 @@ if ($conn->connect_error) {
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="bootstrap-4.4.1-dist/css/bootstrap.min.css" />
-    <title>Regisztracio</title>
-    
-
+    <title>Regisztracio</title>   
 </head>
-
 <body>
-
 <div class="container-fluid">
 <div class="row">
 <div class="col-xl-6">
@@ -56,9 +50,6 @@ if ($conn->connect_error) {
 
 </form>
 </div>
-
-
-
 <?php
 // regisztracio
 
@@ -66,12 +57,7 @@ $password=$_POST["jelszo"];
 $password2=$_POST["jelszo2"];
 
 if($password != $password2){
-
-    echo '
-        <script>
-        alert("A jelszó mezők nem egyeznek")
-        </script>'
-        ;
+  echo '<script>alert("A jelszó mezők nem egyeznek");</script>';
 }
 
 
@@ -93,8 +79,7 @@ if (isset($_POST["reg"]) && $password == $password2)
       <script>
       alert("Felhasznalo sikeresen hozzáadva!")
       </script>';
-      }
-      else{
+      } else {
         echo "Hiba: ".$sql."<br>". $conn->error;
       }
       $conn->close();
@@ -103,14 +88,9 @@ if (isset($_POST["reg"]) && $password == $password2)
       $tel="";
       $email="";
       echo '<meta http-equiv="refresh" content="0;url=index.php">';
-
-
-
     }
     
-    ?>
-
-
+?>
 
 </body>
 </html>

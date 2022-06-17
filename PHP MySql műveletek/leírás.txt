@@ -1,0 +1,9 @@
+szükséges létrehozni a adatok adatbázist és beleimportálni a felhasznalok.sql fájlt 
+
+-felhasználó regisztrálás az sql-táblába: index.php
+
+-admin belépés teszt: admin.php
+	felhasználónév:admin
+	jelszó:jelszo
+
+-adatok megjelenítése az admin2.php (admin.php irányít oda, sikeres belépés esetén) - oldal létrehozás alatt
