@@ -1,8 +1,8 @@
-szükséges létrehozni a adatok adatbázist és beleimportálni a felhasznalok.sql fájlt 
+szükséges létrehozni az adatok adatbázist és beleimportálni a felhasznalok.sql fájlt 
 
 -felhasználó regisztrálás az sql-táblába: index.php
 
--admin belépés teszt: admin.php
+-admin belépés: admin.php
 	felhasználónév:admin
 	jelszó:jelszo
 
